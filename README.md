@@ -12,11 +12,11 @@ For example, insurance company guidelines on procedure pre-authorization are con
 ## High Level Architecture:-
 The architectural diagram for full-stack application is: 
 
-![](assests/images/PHC-architectural-diagram_.png)
+![Full-stack Application Architecture](assets/images/PHC-architectural-diagram_.png)
 
 The architectural diagram for API's reference is:
 
-![](assests/images/PHC-architectural-diagram_API.png)
+![API Reference Architecture](assets/images/PHC-architectural-diagram_API.png)
 
 # Prerequisites
 For the prerequisites, we need: 
