@@ -97,6 +97,9 @@ You can find the API documentation in the `/assets/docs/API_Postman_Guide.pdf` a
 Developer: 
     [Loveneet Singh](https://www.linkedin.com/in/loveneet-singh-6bb2851ba/)
 
+Developer: 
+    [Vishnusai kandati](https://www.linkedin.com/in/vishnusai-kandati/)
+
 Sr. Program Manager, AWS: 
     [Jubleen Vilku](https://www.linkedin.com/in/jubleen-vilku/)
 
