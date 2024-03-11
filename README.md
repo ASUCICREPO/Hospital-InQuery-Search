@@ -1,13 +1,13 @@
-# PCH Generative AI solution
-The “INquery” tool will allow Phoenix Children’s Hospital administrators to upload procedure pre-authorization guidelines to an Amazon S3 bucket as a central repository. Amazon Sagemaker Foundation AI generative model will be leveraged to generate embeddings while storing and querying the PDF documents. This will allow PCH administrators to efficiently use natural language while searching procedure specific insurance company pre-authorization guidelines, thereby reducing the time and resources required to verify information prior to medical procedures.
+# Hospital Generative AI solution
+The “INquery” tool will allow Hospital administrators to upload procedure pre-authorization guidelines to an Amazon S3 bucket as a central repository. Amazon Sagemaker Foundation AI generative model will be leveraged to generate embeddings while storing and querying the PDF documents. This will allow Hospital administrators to efficiently use natural language while searching procedure-specific insurance company pre-authorization guidelines, thereby reducing the time and resources required to verify information before medical procedures.
 
 ## Overview:-
-Phoenix Children’s Hospital (PCH) has partnered with the Arizona State University Cloud Innovation Center (CIC) to build a tool that lets PCH administrators query medical documents using natural language processing.
+Phoenix Children’s Hospital (Hospital) has partnered with the Arizona State University Cloud Innovation Center (CIC) to build a tool that lets Hospital administrators query medical documents using natural language processing.
 
 ## Description:-
 For a large hospital, it is a challenge to categorize and query medical documents. Medical facilities allocate manual resources to sort through cluttered document systems which results in long lead times for administrative tasks and frustrating patient experiences. When the health of children is involved, an organized and easily accessible search system for medical documents can be invaluable. 
 
-For example, insurance company guidelines on procedure pre-authorization are constantly changing. To prevent customers from unexpected charges or denial of claims, PCH administrators manually validate insurance websites for pre-authorization requirements for every procedure.
+For example, insurance company guidelines on procedure pre-authorization are constantly changing. To prevent customers from unexpected charges or denial of claims, Hospital administrators manually validate insurance websites for pre-authorization requirements for every procedure.
 
 ## High Level Architecture:-
 The architectural diagram for full-stack application is: 
